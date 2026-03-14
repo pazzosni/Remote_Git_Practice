@@ -1,0 +1,2 @@
+import goodjob
+goodjob.say()
